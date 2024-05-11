@@ -1,5 +1,3 @@
-# HR-Data-Analysis
-
 # HR Analytics Project
 
 This project focuses on analyzing HR-related data to gain insights into employee demographics, performance, and other key metrics.
